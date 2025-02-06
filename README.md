@@ -22,6 +22,7 @@ Or just run it straightly with:
 ```cd Marzneshin-hysteria2  ```
 
 ```python3 Hysteria2.py```
+
 **Usage:**
 Follow the interactive menus to manage SSL and Hysteria2 configurations.
 
