@@ -4,7 +4,15 @@ A Python script to manage SSL certificates and Hysteria2 configurations for Marz
 
 **Features:**
 - **SSL Management:** Generate a self‐signed (10‑year) certificate or obtain a Let's Encrypt certificate.
-- **Hysteria2 Configuration:** Enable/disable Hysteria2 via Docker Compose and interactively adjust settings (listening port, sniGuard, obfuscation, bandwidth limits, DNS resolver).
+- **Hysteria2 Configuration:** Enable/disable Hysteria2 via Docker Compose and interactively adjust or apply settings:
+listening port
+sniGuard
+obfuscation
+bandwidth limits
+DNS resolver
+manage ACL / Block Traffic
+etc
+...
 - **Restart Functionality:** Automatically detect live logs during restart and display elapsed time.
 
 **Requirements:**
