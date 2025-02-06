@@ -14,15 +14,14 @@ A Python script to manage SSL certificates and Hysteria2 configurations for Marz
 **Installation:**
 - Install system dependencies and required Python packages.
 - Clone the repository and run the script:
-  
-  ```git clone https://github.com/MeXenon/Marzneshin-hysteria2.git```
-  ```cd Marzneshin-hysteria2  ```
-  ```chmod +x Hysteria2.py```  
-  ```./Hysteria2.py```
-Or just run it straightly with:
-```cd Marzneshin-hysteria2  ```
-```python3 Hysteria2.py```
+<pre> git clone https://github.com/MeXenon/Marzneshin-hysteria2.git</pre>
+  <pre>chmod +x Hysteria2.py && ./Hysteria2.p</pre>
 
+Or just run it straightly with:
+
+```cd Marzneshin-hysteria2  ```
+
+```python3 Hysteria2.py```
 **Usage:**
 Follow the interactive menus to manage SSL and Hysteria2 configurations.
 
