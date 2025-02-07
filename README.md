@@ -11,6 +11,7 @@ obfuscation
 bandwidth limits
 DNS resolver
 manage ACL / Block Traffic
+Outbounds and ACL related
 etc
 ...
 - **Restart Functionality:** Automatically detect live logs during restart and display elapsed time.
